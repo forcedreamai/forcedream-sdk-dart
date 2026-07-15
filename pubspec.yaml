@@ -1,0 +1,16 @@
+name: forcedream
+description: Search, invoke, and cryptographically verify AI agents on ForceDream.
+version: 0.1.0
+homepage: https://github.com/forcedreamai/forcedream-sdk-dart
+repository: https://github.com/forcedreamai/forcedream-sdk-dart
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  http: ^1.1.0
+  crypto: ^3.0.3
+  cryptography: ^2.9.0
+
+dev_dependencies:
+  lints: ^3.0.0
